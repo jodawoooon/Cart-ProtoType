@@ -67,12 +67,8 @@
 ### 2. 장바구니
 
 <img src="https://user-images.githubusercontent.com/38212743/180378886-f2a2c295-5f38-4dd7-b86f-ab04ee548777.png"  width="700" height="400"/>
-<img src="https://user-images.githubusercontent.com/38212743/180378898-ee530680-b40e-4ab9-b08f-757e5205f4b4.png"  width="700" height="400"/>
-<img src="https://user-images.githubusercontent.com/38212743/180378934-8ee1701b-0534-4c9b-a05a-db12d79afac7.png"  width="700" height="400"/>
-<img src="https://user-images.githubusercontent.com/38212743/180378911-488b30f6-bfc7-41a4-983f-ef4211beb7f2.png"  width="700" height="400"/>
+<img src="https://user-images.githubusercontent.com/38212743/180380203-21e8218f-969e-4df2-a7a1-ba26dcf8e02c.png"  width="700" height="400"/>
+<img src="https://user-images.githubusercontent.com/38212743/180379961-98ec3d17-edf7-497f-a9ec-01385361179d.png"  width="700" height="400"/>
+<img src="https://user-images.githubusercontent.com/38212743/180379930-a36fb69e-58a2-4d6f-a2c3-7d0a0b73e9a3.png"  width="700" height="400"/>
+<img src="https://user-images.githubusercontent.com/38212743/180379981-a9f5680f-8105-4c62-b315-95465ad868f1.png"  width="700" height="400"/>
 <img src="https://user-images.githubusercontent.com/38212743/180378954-7cbdf3c9-e68f-4bc7-92f0-e8e7b0c449e7.png"  width="700" height="400"/>
-
-
-
-
-
